@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "chartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppPear/ChartView",
+      "state" : {
+        "revision" : "caa75ecbc0d68f2b50d714909566406f80214186",
+        "version" : "2.0.0-beta.2"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "fd010e54231331fc19338f81c6d072cd9ace2825",
+        "version" : "5.18.8"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+      "state" : {
+        "revision" : "261b6cec35686d2dc192b809ab50742b4502a73b",
+        "version" : "2.2.6"
+      }
+    },
+    {
+      "identity" : "swiftuifonticon",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/huybuidac/SwiftUIFontIcon",
+      "state" : {
+        "revision" : "4f170fbf443d985ae518a14a12ec8194ec6b08eb",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "swiftuix",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftUIX/SwiftUIX.git",
+      "state" : {
+        "revision" : "a5a22a1aaca885c229f475af049d75a6d9144de8",
+        "version" : "0.1.9"
+      }
+    }
+  ],
+  "version" : 2
+}
